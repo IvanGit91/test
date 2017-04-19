@@ -5,7 +5,7 @@ public class Main {
 	static void method(int i){
 		System.out.println("Method" + i);
 	}
-	
+	// Funzione che stampa.....
 	public static void main(String args[]){
 		
 		int i=0;
